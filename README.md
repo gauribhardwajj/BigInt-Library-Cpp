@@ -163,9 +163,3 @@ BigInt is a header-only C++ library that provides **`arbitrary-precision integer
 ## Installation
 To use BigInt Library in your project, simply download the **`"bigint.h"`** header file from this GitHub repository and include it in your project. No additional installation steps are required.
 Make sure to add a valid relative path in the include statement.
-
-## Contributing
-Contributions to BigInt are welcome! Whether you find a bug, have a feature request, or want to contribute code, please feel free to open an issue or submit a pull request on the GitHub repository.
-
-## License
-This project is licensed under the MIT License, allowing for both personal and commercial use with minimal restrictions.
